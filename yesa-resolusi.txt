@@ -2,3 +2,4 @@ Yesa Resolusi
 - Konsisten
 - Membuat Platform
 - Manajemen waktu
+- Komunikasi
